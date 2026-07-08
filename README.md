@@ -2,13 +2,13 @@
 
 A real-time 3D simulation built in Unity, modelling COVID-19 transmission through a population of AI-driven NPCs in a scaled urban environment.
 
-![Simulation overview](./Production%20Project%20Screenshots/Product%20Screenshots/1.png)
+![Simulation overview](./Production%20Project%20Screenshots/Product%20Screenshots/89.png)
 
 ## What it does
 
 Applies a modified SIR (Susceptible-Infected-Recovered) model with proximity-based infection detection, tracking spread through up to 50 NPCs using NavMesh pathfinding. Infection checks run on a cached 0.1 second interval rather than per frame for performance.
 
-![Infection spread](./Production%20Project%20Screenshots/Product%20Screenshots/infection-spread.png)
+![Infection spread](./Production%20Project%20Screenshots/Product%20Screenshots/96.png)
 
 ## NPC behaviour
 
@@ -20,7 +20,7 @@ A live R-value calculator and population statistics update in real time as the s
 
 ![Statistics tracking](./Production%20Project%20Screenshots/Product%20Screenshots/statistics-tracking.png)
 
-![Population and weather controls](./Production%20Project%20Screenshots/Product%20Screenshots/population-weather-controls.png)
+![Population and weather controls](./Production%20Project%20Screenshots/Product%20Screenshots/97.png)
 
 ## Performance
 
