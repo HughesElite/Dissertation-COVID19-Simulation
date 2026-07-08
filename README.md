@@ -18,9 +18,8 @@ NPCs follow structured routines or random movement, and once infected, adjust be
 
 A live R-value calculator and population statistics update in real time as the simulation runs, alongside dynamic population and weather controls.
 
-![Statistics tracking](./Production%20Project%20Screenshots/Product%20Screenshots/statistics-tracking.png)
+![Statistics tracking](./Production%20Project%20Screenshots/Product%20Screenshots/100.png)
 
-![Population and weather controls](./Production%20Project%20Screenshots/Product%20Screenshots/97.png)
 
 ## Performance
 
